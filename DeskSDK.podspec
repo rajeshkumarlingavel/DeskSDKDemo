@@ -5,7 +5,7 @@ spec.license       = { :type => 'MIT' }
 spec.homepage      = 'https://desk.zoho.com'
 spec.authors       = { 'Rajeshkumar Lingavel' => 'rajeshkumar.l@zohocorp.com' }
 spec.summary       = 'Component for Desk'
-spec.source        = { :git => 'https://github.com/rajeshkumarlingavel/DemoSDK.git', :tag => spec.version }
+spec.source        = { :git => 'https://github.com/rajeshkumarlingavel/DeskSDKDemo.git', :tag => spec.version }
 
 spec.ios.deployment_target  = '9.0'
 spec.swift_version = '4.2'
