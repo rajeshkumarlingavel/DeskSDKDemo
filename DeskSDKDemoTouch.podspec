@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-spec.name          = 'DeskSDK'
+spec.name          = 'DeskSDKDemoTouch'
 spec.version       = '0.0.1'
 spec.license       = { :type => 'MIT' }
 spec.homepage      = 'https://desk.zoho.com'
